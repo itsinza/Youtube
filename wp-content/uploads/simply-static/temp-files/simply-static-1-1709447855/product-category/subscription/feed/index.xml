@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Subscription &#8211; Inza Gym</title>
+	<atom:link href="/https://github.com/itsinza/Gym.git/product-category/subscription/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://github.com/itsinza/Gym.git</link>
+	<description>Best Gym in Kathmandu</description>
+	<lastBuildDate>Wed, 14 Feb 2024 12:19:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Professional Plan</title>
+		<link>/https://github.com/itsinza/Gym.git/product/professional-plan/</link>
+					<comments>/https://github.com/itsinza/Gym.git/product/professional-plan/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Wed, 14 Feb 2024 12:19:21 +0000</pubDate>
+				<guid isPermaLink="false">/https://github.com/itsinza/Gym.git/?post_type=product#038;p=165</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/https://github.com/itsinza/Gym.git/product/professional-plan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sportsman Plan</title>
+		<link>/https://github.com/itsinza/Gym.git/product/sportsman-plan/</link>
+					<comments>/https://github.com/itsinza/Gym.git/product/sportsman-plan/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Wed, 14 Feb 2024 12:17:24 +0000</pubDate>
+				<guid isPermaLink="false">/https://github.com/itsinza/Gym.git/?post_type=product#038;p=161</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/https://github.com/itsinza/Gym.git/product/sportsman-plan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Basic Plan</title>
+		<link>/https://github.com/itsinza/Gym.git/product/basic-plan/</link>
+					<comments>/https://github.com/itsinza/Gym.git/product/basic-plan/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Wed, 14 Feb 2024 12:15:36 +0000</pubDate>
+				<guid isPermaLink="false">/https://github.com/itsinza/Gym.git/?post_type=product#038;p=160</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/https://github.com/itsinza/Gym.git/product/basic-plan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,8 @@
+2024-02-15T05:54:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Wordpress3\wp-content\plugins\elementor\includes\controls\image-dimensions.php on line 4
+
+2024-02-15T05:54:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Wordpress3\wp-includes\Requests\src\Transport\Curl.php on line 510
+
+2024-02-15T05:55:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Wordpress3\wp-admin\menu-header.php on line 14
+
+2024-02-15T05:55:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Wordpress3\wp-content\plugins\elementor-pro\modules\posts\widgets\portfolio.php on line 14
+
